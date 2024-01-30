@@ -1,0 +1,7 @@
+.idea/
+/.idea
+build/
+.gradle/
+.teamcity/
+/.gradle
+/build
